@@ -1,3 +1,5 @@
 function App() {
-  return <div></div>;
+  return <div>
+      <h1>Food Buddy</h1>
+    </div>;
 }
